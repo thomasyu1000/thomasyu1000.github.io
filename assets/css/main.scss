@@ -9,9 +9,6 @@
 
 // Adjust font size everywhere
 html {
-  /* apply a natural box layout model to all elements */
-  box-sizing: border-box;
-  background-color: $background-color;
   font-size: 14px; // 16px;
 
   @include breakpoint($medium) {
@@ -25,20 +22,30 @@ html {
   @include breakpoint($x-large) {
     font-size: 17px; // 22px;
   }
-
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
 }
 
 // Adjust width of left and right sidebars
 $right-sidebar-width-narrow: 100px; // 200px !default;
-$right-sidebar-width: 150px; // 300px !default;
-$right-sidebar-width-wide: 200px; // 400px !default;
+$right-sidebar-width: 140px; // 300px !default;
+$right-sidebar-width-wide: 180px; // 400px !default;
+
+// Adjust opacity of sidebar
+.sidebar {
+  @include breakpoint($large) {
+    opacity: 0.9; // 0.75;
+    -webkit-transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.2s ease-in-out;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+} 
 
 // Adjust size, shape, and border of profile picture in sidebar
 .author__avatar {
   img {
-    max-width: 150px; // max-width: 110px;
+    max-width: 140px; // max-width: 110px;
     border-radius: 50%;
 
     @include breakpoint($large) {
