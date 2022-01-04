@@ -5,7 +5,7 @@ title: "About"
 author_profile: true
 classes:
 header:
-	image: /assets/images/header-photo.jpg
+  image: /assets/images/header-photo.jpg
 ---
 
 I am a PhD student in economics at Yale University, beginning my PhD program in Fall 2021. My research interests include macroeconomics, industrial organization, insurance, and healthcare.
