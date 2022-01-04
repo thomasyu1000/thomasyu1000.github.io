@@ -16,7 +16,7 @@ header:
 - **A Model of Countercyclical Macroprudential Policy**<br>
 [[Paper](/assets/docs/YuThomas_HonorsThesis.pdf){:target="_blank"}, [Code](https://github.com/thomasyu1000/yu2019_thesis/){:target="_blank"}]
 
-	*Abstract*: Since the adoption of Basel III bank regulations, countercyclical capital requirements have risen in
+	*Abstract:* Since the adoption of Basel III bank regulations, countercyclical capital requirements have risen in
 	prominence as a macroprudential tool for mitigating systemic risk and promoting financial stability.
 	In this paper, I develop a model with a social cost of debt, which is addressed by imposing a capital
 	requirement on financial intermediaries that responds countercyclically to aggregate debt and output.
