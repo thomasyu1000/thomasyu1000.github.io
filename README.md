@@ -16,4 +16,4 @@ I made the following custom changes to the original theme:
 	- Adjust width of left and right sidebars.
 	- Adjust size, shape, and border of profile picture in sidebar.
 	- Adjust font size of author name in sidebar.
-- Deleted `index.md` ("About" page serves as home page instead).
+- Deleted `index.html` ("About" page serves as home page instead).
