@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: /about/
+    url: /
     new_tab: false
   - title: "Research"
     url: /research/

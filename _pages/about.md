@@ -1,15 +1,16 @@
 ---
-permalink: /about/
+permalink: /
 layout: single
-title: "About"
+title:
 author_profile: true
 classes:
 header:
   image: /assets/images/header-photo.jpg
+alt_title: "About"
 ---
 
-I am a PhD student in economics at Yale University, beginning my PhD program in Fall 2021. My research interests include macroeconomics, industrial organization, insurance, and healthcare.
+I am a PhD student in economics at Yale University, beginning my program in Fall 2021. My research interests include macroeconomics, industrial organization, insurance, and healthcare.
 
-I graduated from the University of Chicago in 2019 with a BA in economics with honors and a BS in mathematics. I previously worked at Lyft as a part of the Economics team.
+Previously, I worked at Lyft as part of the Economics team. I graduated from the University of Chicago in 2019 with a BA in economics with honors and a BS in mathematics.
 
 🚧 This website is a work in progress. 🚧
