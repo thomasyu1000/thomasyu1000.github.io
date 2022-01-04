@@ -1,9 +1,9 @@
 ---
 permalink: /
-layout: single-alt-title
 title:
-author_profile: true
+layout: single-alt-title
 classes:
+author_profile: true
 header:
   image: /assets/images/header-photo.jpg
 alt_title: "About"
