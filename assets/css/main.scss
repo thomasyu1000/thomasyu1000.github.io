@@ -35,6 +35,29 @@ $right-sidebar-width-narrow: 100px; // 200px !default;
 $right-sidebar-width: 150px; // 300px !default;
 $right-sidebar-width-wide: 200px; // 400px !default;
 
+// Adjust opacity of left sidebar
+.sidebar {
+  @include breakpoint($large) {
+    float: left;
+    width: calc(#{$right-sidebar-width-narrow} - 1em);
+    opacity: 1 // 0.75;
+    -webkit-transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.2s ease-in-out;
+
+    &:hover {
+      opacity: 1;
+    }
+
+    &.sticky {
+      overflow-y: auto;
+      /* calculate height of nav list
+         viewport height - nav height - masthead x-padding
+      */
+      max-height: calc(100vh - #{$nav-height} - 2em);
+    }
+  }
+}
+
 // Adjust size, shape, and border of profile picture in sidebar.
 .author__avatar {
   display: table-cell;
@@ -62,5 +85,5 @@ $right-sidebar-width-wide: 200px; // 400px !default;
 // Adjust font size of author name in sidebar
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-3; // $type-size-5;
+  font-size: $type-size-1; // $type-size-5;
 }
