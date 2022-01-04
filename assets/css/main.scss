@@ -49,7 +49,7 @@ $right-sidebar-width-wide: 200px; // 400px !default;
   }
 
   img {
-    max-width: 150px; // max-width: 110px;
+    max-width: 200px; // max-width: 110px;
     border-radius: 50%;
 
     @include breakpoint($large) {
