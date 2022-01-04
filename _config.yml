@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Thomas Yu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student in economics at Yale University"
+  bio    : "Economics PhD student at Yale"
   links:
     - label: "t.yu@yale.edu"
       icon: "fas fa-fw fa-envelope"
