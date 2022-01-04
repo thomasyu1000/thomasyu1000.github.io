@@ -1,5 +1,7 @@
 main:
   - title: "Home"
     url: /
+    new_tab: false
   - title: "Research"
     url: /research/
+    new_tab: false
