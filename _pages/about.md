@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: single
+layout: single-alt-title
 title:
 author_profile: true
 classes:
