@@ -70,7 +70,7 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:t.yu@yale.edu"
       new_tab: true
-    - label: "@_ThomasYu"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/_ThomasYu"
       new_tab: true
