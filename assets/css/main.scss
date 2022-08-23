@@ -8,11 +8,6 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// Adjust width of left and right sidebars
-$right-sidebar-width-narrow: 100px !default; // 200px !default;
-$right-sidebar-width: 125px !default; // 300px !default;
-$right-sidebar-width-wide: 150px !default; // 400px !default;
-
 // Adjust font size everywhere
 html {
   font-size: 14px; // 16px;
@@ -29,6 +24,11 @@ html {
     font-size: 17px; // 22px;
   }
 }
+
+// Adjust width of left and right sidebars
+$right-sidebar-width-narrow: 100px; // 200px !default;
+$right-sidebar-width: 125px; // 300px !default;
+$right-sidebar-width-wide: 150px; // 400px !default;
 
 // Adjust opacity of sidebar
 .sidebar {
