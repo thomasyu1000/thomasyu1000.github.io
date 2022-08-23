@@ -1,27 +1,20 @@
-# Minimal Mistakes remote theme starter
+# My personal website
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+I designed this website using the Jekyll theme [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes), which was created by Michael Rose and copyrighted under the MIT license. I got started with the Minimal Mistakes [starter template](https://github.com/mmistakes/mm-github-pages-starter).
 
-Contains basic configuration to get you a site with:
+## Customizations
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+I made the following custom changes to the original theme:
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+- Modified `_data/ui-text.yml` and `_includes/author-profile.html` to change Follow Label from "Follow" to "Connect"
+- Modified `_includes/author-profile.html` to allow author bio links in sidebar to open in new tab, toggled by `new_tab`
+- Modified `_includes/footer.html` to allow Follow Label in footer to be hidden (toggled by `hide_follow_label`)
+- Modified `_includes/masthead.html` to allow website title to be hidden (toggled by `hide_title`) and allow links in navigation menu to open in new tab (toggled by `new_tab`)
+- Added `_layouts/single-alt-title.html` to create variation of Single layout with `alt_title` field, so title in text can be different from title of page.
+- Modified `assets/css/main.scss` to make the following changes:
+	- Adjust font size everywhere
+	- Adjust width of left and right sidebars
+	- Adjust opacity of sidebar
+	- Adjust size, shape, and border of profile picture in sidebar
+	- Adjust font size of author name in sidebar
+- Deleted `index.html` ("About" page serves as home page instead)
