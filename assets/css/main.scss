@@ -26,9 +26,9 @@ html {
 }
 
 // Adjust width of left and right sidebars
-$right-sidebar-width-narrow: 100px; // 200px !default;
-$right-sidebar-width: 125px; // 300px !default;
-$right-sidebar-width-wide: 150px; // 400px !default;
+$right-sidebar-width-narrow: 150px; // 200px !default;
+$right-sidebar-width: 200px; // 300px !default;
+$right-sidebar-width-wide: 250px; // 400px !default;
 
 // Adjust opacity of sidebar
 .sidebar {
@@ -110,8 +110,8 @@ $right-sidebar-width-wide: 150px; // 400px !default;
   }
 
   img {
-    max-width: 150px; // 110px;
-    border-radius: 0%; // 50%;
+    max-width: 200px; // 110px;
+    border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 0px; // 5px;
