@@ -7,9 +7,10 @@ author_profile: true
 header:
 ---
 
-## Working Papers
+## Works in Progress
 
-- **How to Prevent Traffic Accidents? Moral Hazard, Inattention, and Behavioral Data** with Yizhou Jin
+- **How to Prevent Traffic Accidents? Moral Hazard, Inattention, and Behavioral Data**
+	with Yizhou Jin
 
 ## Undergraduate Honors Thesis
 
