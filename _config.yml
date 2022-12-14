@@ -73,13 +73,13 @@ author:
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/_ThomasYu"
       new_tab: true
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/thomasyu1000"
-      new_tab: true
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/thomas-yu-1000"
+      new_tab: true
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/thomasyu1000"
       new_tab: true
 
 # footer:

@@ -9,15 +9,18 @@ header:
 
 ## Works in Progress
 
-- **How to Prevent Traffic Accidents? Moral Hazard, Inattention, and Behavioral Data**
-	with Yizhou Jin
+- **High-Frequency Location Data Shows That Race Affects the Likelihood of Being Stopped and Fined for Speeding**
+	<br>with Pradhi Aggarwal, Alec Brandon, Ariel Goldszmidt, Justin Holz, John A. List, Ian Muir, and Gregory Sun
+
+- **How to Prevent Traffic Accidents: Moral Hazard, Inattention, and Behavioral Data**
+	<br>with Yizhou Jin
 
 ## Undergraduate Honors Thesis
 
-- **A Model of Countercyclical Macroprudential Policy**<br>
-	[[Paper](/assets/docs/YuThomas_HonorsThesis.pdf){:target="_blank"}, [Code](https://github.com/thomasyu1000/yu2019_thesis/){:target="_blank"}]
+- **A Model of Countercyclical Macroprudential Policy**
+	<br>[[Paper](/assets/docs/YuThomas_HonorsThesis.pdf){:target="_blank"}, [Code](https://github.com/thomasyu1000/yu2019_thesis/){:target="_blank"}]
 
-	*Abstract:* Since the adoption of Basel III bank regulations, countercyclical capital requirements have risen in
+	Since the adoption of Basel III bank regulations, countercyclical capital requirements have risen in
 	prominence as a macroprudential tool for mitigating systemic risk and promoting financial stability.
 	In this paper, I develop a model with a social cost of debt, which is addressed by imposing a capital
 	requirement on financial intermediaries that responds countercyclically to aggregate debt and output.
