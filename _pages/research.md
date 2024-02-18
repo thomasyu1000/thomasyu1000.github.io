@@ -7,10 +7,10 @@ author_profile: true
 header:
 ---
 
-## Works in Progress
+## Working Papers
 
 - **High-Frequency Location Data Shows That Race Affects the Likelihood of Being Stopped and Fined for Speeding**
-	<br>with Pradhi Aggarwal, Alec Brandon, Ariel Goldszmidt, Justin Holz, John A. List, Ian Muir, and Gregory Sun
+	<br>with Pradhi Aggarwal, Alec Brandon, Ariel Goldszmidt, Justin Holz, John List, Ian Muir, and Gregory Sun
 
 - **How to Prevent Traffic Accidents: Moral Hazard, Inattention, and Behavioral Data**
 	<br>with Yizhou Jin
