@@ -7,26 +7,24 @@ author_profile: true
 header:
 ---
 
+## In Progress
+
+- **Redesigning Graduate Medical Education Payments**
+
+- **Welfare Implications of Hospital Service Line Entry**
+
 ## Working Papers
 
-- **High-Frequency Location Data Shows That Race Affects the Likelihood of Being Stopped and Fined for Speeding**
+- [**High-Frequency Location Data Shows That Race Affects the Likelihood of Being Stopped and Fined for Speeding**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298671){:target="_blank"}
 	<br>with Pradhi Aggarwal, Alec Brandon, Ariel Goldszmidt, Justin Holz, John List, Ian Muir, and Gregory Sun
 
-- **How to Prevent Traffic Accidents: Moral Hazard, Inattention, and Behavioral Data**
+- **AI and the "First-Best" Insurance Contract**
 	<br>with Yizhou Jin
 
-## Undergraduate Honors Thesis
+- **Effect of Pricing on a Two-Sided Market: The Case of Ride-Sharing**
+	<br>with Chien-Yu Lai
 
-- **A Model of Countercyclical Macroprudential Policy**
-	<br>[[Paper](/assets/docs/YuThomas_HonorsThesis.pdf){:target="_blank"}, [Code](https://github.com/thomasyu1000/yu2019_thesis/){:target="_blank"}]
+## Other
 
-	Since the adoption of Basel III bank regulations, countercyclical capital requirements have risen in
-	prominence as a macroprudential tool for mitigating systemic risk and promoting financial stability.
-	In this paper, I develop a model with a social cost of debt, which is addressed by imposing a capital
-	requirement on financial intermediaries that responds countercyclically to aggregate debt and output.
-	I evaluate the economy’s responses to simulated financial crises and find that a countercyclical capital
-	requirement reduces the volatility of macroeconomic variables, helping the economy recover after a shock.
-	This smoothing effect can be explained by the degree of the requirement’s countercyclicality. In a welfare
-	analysis, I find that a countercyclical capital requirement can lead to greater welfare gains than a debt
-	tax. These results provide strong evidence in favor of the use of countercyclical capital requirements as
-	a policy instrument.
+- [**A Model of Countercyclical Macroprudential Policy**](/assets/docs/YuThomas_HonorsThesis.pdf){:target="_blank"} (Undergraduate Honors Thesis)
+	<br>[[Code](https://github.com/thomasyu1000/yu2019_thesis/){:target="_blank"}]
