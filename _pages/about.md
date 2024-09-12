@@ -9,6 +9,6 @@ header:
 alt_title: "About"
 ---
 
-I am a PhD candidate in economics at Yale University. I began my program in Fall 2021. My research is in health care, industrial organization, and labor economics.
+I am a PhD candidate in economics at Yale University. I began my program in Fall 2021. My research is in health economics and industrial organization.
 
-Previously, I worked as part of the economics team at Lyft. I graduated from the University of Chicago in 2019 with degrees in economics and math.
+Previously, I worked as part of the economics team at Lyft.
