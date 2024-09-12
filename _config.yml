@@ -16,8 +16,7 @@
 title: Thomas Yu
 email: t.yu@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Thomas Yu, graduate student pursuing a PhD in the Department of Economics at Yale University.
-  My primary research interests are health care, industrial organization, and econometrics.
+  Personal website of Thomas Yu, PhD candidate in economics at Yale University. My research is in health care, industrial organization, and labor economics.
 twitter_username: _ThomasYu
 github_username: thomasyu1000
 minimal_mistakes_skin: dirt
@@ -63,7 +62,7 @@ plugins:
 author:
   name   : "Thomas Yu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Economics PhD student at Yale"
+  bio    : "Economics PhD candidate at Yale"
   links:
     - label: "t.yu@yale.edu"
       icon: "fas fa-fw fa-envelope"
