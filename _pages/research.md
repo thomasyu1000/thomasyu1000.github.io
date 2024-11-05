@@ -9,9 +9,9 @@ header:
 
 ## In Progress
 
-- **Redesigning Graduate Medical Education Payments**
-
 - **Welfare Implications of Hospital Obstetric Unit Entry**
+
+- **Redesigning Graduate Medical Education Payments**
 
 - **Pass-through of Medicare Drug Price Negotiations**
 
