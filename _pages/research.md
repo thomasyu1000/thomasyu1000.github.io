@@ -28,5 +28,5 @@ header:
 
 ## Other
 
-- [**A Model of Countercyclical Macroprudential Policy**](/assets/docs/YuThomas_HonorsThesis.pdf){:target="_blank"} (Undergraduate Honors Thesis)
+- [**A Model of Countercyclical Macroprudential Policy**](/research/yu2019_thesis) (Undergraduate Honors Thesis)
 	<br>[[Code](https://github.com/thomasyu1000/yu2019_thesis/){:target="_blank"}]

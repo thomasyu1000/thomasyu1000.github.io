@@ -3,5 +3,5 @@ main:
     url: /
     new_tab: false
   - title: "Research"
-    url: /research/
+    url: /research
     new_tab: false
