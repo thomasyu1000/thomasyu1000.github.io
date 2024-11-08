@@ -8,4 +8,4 @@ header:
 alt_title:
 ---
 
-<iframe src="/assets/docs/YuThomas_HonorsThesis.pdf" width="100%" height="100%"></iframe>
+<iframe src="/assets/docs/YuThomas_HonorsThesis.pdf" width="100%" height="600px"></iframe>
