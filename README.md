@@ -18,4 +18,4 @@ I made the following custom changes to the original theme:
 	- Adjust size, shape, and border of profile picture in sidebar.
 	- Adjust font size of author name in sidebar.
 - Deleted `index.html` ("About" page serves as home page instead).
-- Added `pdfjs-4.8.69-dist`. To render PDFs, I used the JavaScript library [PDF.js](https://mozilla.github.io/pdf.js/), which is copyrighted under the Apache-2.0 license. I modified the default scale to Page Width.
+- Added `pdfjs-4.8.69-dist`. To render PDFs, I used the JavaScript library [PDF.js](https://mozilla.github.io/pdf.js/), which is copyrighted under the Apache-2.0 license.
