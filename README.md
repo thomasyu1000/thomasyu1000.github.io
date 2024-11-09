@@ -1,6 +1,6 @@
 # My personal website
 
-I designed this website using the Jekyll theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/), which is created by Michael Rose and copyrighted under the MIT license. I got started with the Minimal Mistakes [starter template](https://github.com/mmistakes/mm-github-pages-starter).
+I designed this website using the Jekyll theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose. I got started with the Minimal Mistakes [starter template](https://github.com/mmistakes/mm-github-pages-starter).
 
 ## Customizations
 
@@ -18,4 +18,4 @@ I made the following custom changes to the original theme:
 	- Adjust size, shape, and border of profile picture in sidebar.
 	- Adjust font size of author name in sidebar.
 - Deleted `index.html` ("About" page serves as home page instead).
-- Added `pdfjs-4.8.69-dist`. To render PDFs, I used the JavaScript library [PDF.js](https://mozilla.github.io/pdf.js/), which is copyrighted under the Apache-2.0 license.
+- Added `pdfjs-4.8.69-dist`, which contains the JavaScript library [PDF.js](https://mozilla.github.io/pdf.js/), to render PDFs.
