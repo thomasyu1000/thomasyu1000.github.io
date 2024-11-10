@@ -13,4 +13,4 @@ I am a PhD candidate in economics at Yale University. My research is in health e
 
 Previously, I worked as part of the economics team at Lyft. I completed my undergraduate studies at the University of Chicago.
 
-Take a look at my [research](/research) and [CV](/cv).
+Take a look at my [research](/research), [teaching](/teaching), and [CV](/cv).

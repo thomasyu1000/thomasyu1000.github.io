@@ -5,6 +5,9 @@ main:
   - title: "Research"
     url: /research
     new_tab: false
+  - title: "Teaching"
+    url: /teaching
+    new_tab: false
   - title: "CV"
     url: /cv
     new_tab: false
