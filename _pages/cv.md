@@ -7,5 +7,5 @@ author_profile: true
 header:
 ---
 
-[Download](/assets/docs/YuThomas_HonorsThesis.pdf){:target="_blank"}
+[Download](/assets/docs/YuThomas_CV.pdf){:target="_blank"}
 <iframe src="/pdfjs-4.8.69-dist/web/viewer.html?file=/assets/docs/YuThomas_CV.pdf" width="100%" height="600px"></iframe>
