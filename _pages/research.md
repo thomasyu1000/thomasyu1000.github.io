@@ -13,7 +13,7 @@ header:
 
 - **Redesigning Graduate Medical Education Payments**
 
-- **Pass-through Effects of Medicare Drug Price Negotiations**
+- **Effects of Medicare Drug Price Negotiations**
 
 ## Working Papers
 
