@@ -68,9 +68,9 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:t.yu@yale.edu"
       new_tab: true
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/_ThomasYu"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/thomasyu.bsky.social"
       new_tab: true
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
