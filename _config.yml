@@ -73,11 +73,11 @@ author:
       url: "https://bsky.app/profile/thomasyu.bsky.social"
       new_tab: true
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://linkedin.com/in/thomas-yu-1000"
       new_tab: true
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://github.com/thomasyu1000"
       new_tab: true
 
