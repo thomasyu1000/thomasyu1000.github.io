@@ -131,3 +131,8 @@ $right-sidebar-width-wide: 300px; // 400px !default;
   font-family: $sans-serif;
   font-size: $type-size-4; // $type-size-5;
 }
+
+// Create class that disables colors for use with icons
+.color-inherit {
+  color: inherit !important;
+}
