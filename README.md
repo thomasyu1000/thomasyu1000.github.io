@@ -17,6 +17,6 @@ I made the following custom changes to the original theme:
 	- Adjust opacity of sidebar.
 	- Adjust size, shape, and border of profile picture in sidebar.
 	- Adjust font size of author name in sidebar.
-	- Create `color-inherit` class for use with icons.
+	- Add `color-inherit` class for use with icons.
 - Deleted `index.html` ("About" page serves as home page instead).
 - Added `pdfjs-4.8.69-dist`, which contains the JavaScript library [PDF.js](https://mozilla.github.io/pdf.js/), to render PDFs.
