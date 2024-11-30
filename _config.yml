@@ -80,10 +80,6 @@ author:
       icon: "fab fa-fw fa-github color-inherit"
       url: "https://github.com/thomasyu1000"
       new_tab: true
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar color-inherit"
-      url: "https://scholar.google.com/citations?user=Es6IxuEAAAAJ"
-      new_tab: true
 
 # footer:
 #   links:
