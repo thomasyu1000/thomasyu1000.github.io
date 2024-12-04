@@ -24,10 +24,10 @@ header:
 - [**How to Prevent Traffic Accidents: AI and the "First-Best" Insurance Contract**](https://www.yjin.io/aicontract){:target="_blank"}
 	<br>with Yizhou Jin
 
+## Other
+
 - **Effect of Pricing on a Two-Sided Market: The Case of Ride-Sharing**
 	<br>with Chien-Yu Lai
-
-## Other
 
 - [**A Model of Countercyclical Macroprudential Policy**](/research/yu2019_thesis) [[Code](https://github.com/thomasyu1000/yu2019_thesis/){:target="_blank"}]
 	<br>(Undergraduate Honors Thesis)
