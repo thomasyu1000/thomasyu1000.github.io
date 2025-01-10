@@ -68,10 +68,10 @@ author:
       icon: "far fa-fw fa-envelope color-inherit"
       url: "mailto:t.yu@yale.edu"
       new_tab: true
-    # - label: "Bluesky"
-    #   icon: "fab fa-fw fa-bluesky color-inherit"
-    #   url: "https://bsky.app/profile/thomasyu.bsky.social"
-    #   new_tab: true
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky color-inherit"
+      url: "https://bsky.app/profile/thomasyu.bsky.social"
+      new_tab: true
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin color-inherit"
       url: "https://linkedin.com/in/thomas-yu-1000"
