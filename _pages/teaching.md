@@ -9,6 +9,10 @@ header:
 
 ## Yale University
 
+- **ECON 121: Intermediate Microeconomics**
+	<br>Teaching Fellow to Prof. Daniel Hauser
+	<br>(Spring 2025)
+
 - **ECON 115: Introductory Microeconomics**
 	<br>Teaching Fellow to Prof. Cormac O'Dea
 	<br>(Fall 2024, Spring 2024)

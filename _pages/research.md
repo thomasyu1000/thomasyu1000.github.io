@@ -17,12 +17,14 @@ header:
 
 ## Working Papers
 
-- [**High-Frequency Location Data Shows That Race Affects the Likelihood of Being Stopped and Fined for Speeding**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298671){:target="_blank"}
-	<br>with Pradhi Aggarwal, Alec Brandon, Ariel Goldszmidt, Justin Holz, John List, Ian Muir, and Gregory Sun
-	<br>(Revise & Resubmit at *Science*)
-
 - [**How to Prevent Traffic Accidents: AI and the "First-Best" Insurance Contract**](https://www.yjin.io/aicontract){:target="_blank"}
 	<br>with Yizhou Jin
+
+## Publications
+
+- [**High-Frequency Location Data Shows That Race Affects the Likelihood of Being Stopped and Fined for Speeding**](https://www.science.org/doi/10.1126/science.adp5357){:target="_blank"} (2025)
+	<br>with Pradhi Aggarwal, Alec Brandon, Ariel Goldszmidt, Justin Holz, John List, Ian Muir, and Gregory Sun
+	<br>*Science*, 387(6741), 1397–1401
 
 ## Other
 
