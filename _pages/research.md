@@ -22,7 +22,7 @@ header:
 
 ## Publications
 
-- [**High-Frequency Location Data Shows That Race Affects Citations and Fines for Speeding**](https://www.science.org/doi/10.1126/science.adp5357){:target="_blank"} (2025)
+- [**High-Frequency Location Data Shows That Race Affects Citations and Fines for Speeding (2025)**](https://www.science.org/doi/10.1126/science.adp5357){:target="_blank"}
 	<br>with Pradhi Aggarwal, Alec Brandon, Ariel Goldszmidt, Justin Holz, John List, Ian Muir, and Gregory Sun
 	<br>*Science*, 387(6741), 1397–1401
 
