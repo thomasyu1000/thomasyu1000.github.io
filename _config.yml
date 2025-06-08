@@ -72,10 +72,6 @@ author:
       icon: "fab fa-fw fa-linkedin color-inherit"
       url: "https://linkedin.com/in/thomas-yu-1000"
       new_tab: true
-    - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky color-inherit"
-      url: "https://bsky.app/profile/thomasyu.bsky.social"
-      new_tab: true
     - label: "GitHub"
       icon: "fab fa-fw fa-github color-inherit"
       url: "https://github.com/thomasyu1000"
