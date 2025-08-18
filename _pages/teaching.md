@@ -15,7 +15,7 @@ header:
 
 - **ECON 115: Introductory Microeconomics**
 	<br>Teaching Fellow to Prof. Cormac O'Dea
-	<br>(Fall 2024, Spring 2024)
+	<br>(Spring 2024, Fall 2024)
 
 - **ECON 121: Intermediate Microeconomics**
 	<br>Teaching Fellow to Prof. Evangelia Chalioti
