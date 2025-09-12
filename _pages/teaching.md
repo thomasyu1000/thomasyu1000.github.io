@@ -9,6 +9,10 @@ header:
 
 ## Yale University
 
+- **ECON 159: Game Theory**
+	<br>Teaching Fellow to Prof. Benjamin Polak
+	<br>(Fall 2025)
+
 - **ECON 121: Intermediate Microeconomics**
 	<br>Teaching Fellow to Prof. Daniel Hauser
 	<br>(Spring 2025)
