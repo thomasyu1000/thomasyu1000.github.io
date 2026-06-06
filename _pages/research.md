@@ -17,7 +17,7 @@ header:
 
 ## Working Papers
 
-- [**How to Prevent Traffic Accidents: AI and the "First-Best" Insurance Contract**](https://www.yjin.io/aicontract){:target="_blank"}
+- [**How to Prevent Traffic Accidents: AI and the "First-Best" Insurance Contract**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4102446){:target="_blank"}
 	<br>with Yizhou Jin
 
 ## Publications

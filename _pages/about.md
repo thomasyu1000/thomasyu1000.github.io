@@ -9,7 +9,9 @@ header:
 alt_title: "About"
 ---
 
-I am a PhD candidate in economics at Yale University. My research is in health economics and industrial organization. My current projects are related to hospital obstetric units, the medical resident labor market, and Medicare drug prices.
+I am on the 2026-2027 job market!
+
+I am a PhD candidate in economics at Yale University. My research is in health economics and industrial organization. My current projects are related to hospital obstetric units, the medical resident labor market, and drug price regulation.
 
 Previously, I worked as part of the economics team at Lyft. I completed my undergraduate education at the University of Chicago.
 
