@@ -12,6 +12,7 @@ header:
 - **ECON 159: Game Theory**
 	<br>Teaching Fellow to Prof. Benjamin Polak
 	<br>(Fall 2025)
+	<br>[Final Exam Review](/game_theory_review)
 
 - **ECON 121: Intermediate Microeconomics**
 	<br>Teaching Fellow to Prof. Daniel Hauser
