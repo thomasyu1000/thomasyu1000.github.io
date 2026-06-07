@@ -13,7 +13,7 @@ header:
 
 - **Redesigning Graduate Medical Education Payments to Expand Residency Positions**
 
-- **Incidence of Drug Price Regulation: Cost-sharing vs.\ List Prices**
+- **Incidence of Drug Price Regulation: Cost-sharing vs. List Prices**
 
 ## Working Papers
 
