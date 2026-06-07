@@ -9,11 +9,11 @@ header:
 
 ## In Progress
 
-- **Optimal Entry of Hospital Obstetric Units**
+- **Optimal Provision of Hospital Obstetric Units**
 
-- **Redesigning Graduate Medical Education Payments**
+- **Redesigning Graduate Medical Education Payments to Expand Residency Positions**
 
-- **Incidence of Medicare Drug Price Negotiation**
+- **Incidence of Drug Price Regulation: Cost-sharing vs.\ List Prices**
 
 ## Working Papers
 
