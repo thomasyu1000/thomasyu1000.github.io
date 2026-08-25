@@ -13,7 +13,7 @@ header:
 
 - **Incidence of Drug Price Regulations** with Genna Liu
 
-- **Redesigning Graduate Medical Education Payments to Increase Residency Positions**
+- **Redesigning Graduate Medical Education Payments: The Role of Residency Caps**
 
 ## Publications
 
