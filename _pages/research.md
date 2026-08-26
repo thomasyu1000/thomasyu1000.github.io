@@ -11,9 +11,9 @@ header:
 
 - **Optimal Provision of Hospital Obstetric Units**
 
-- **Incidence of Drug Price Regulations** with Genna Liu
-
 - **Redesigning Graduate Medical Education Payments: The Role of Residency Caps**
+
+- **Incidence of Drug Price Regulations** with Genna Liu
 
 ## Publications
 
