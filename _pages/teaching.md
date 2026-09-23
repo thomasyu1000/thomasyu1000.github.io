@@ -10,18 +10,18 @@ header:
 ## Yale University
 
 - **ECON 159: Game Theory**
-	<br>Teaching Fellow to Prof. Benjamin Polak
+	<br>Teaching Assistant to Prof. Benjamin Polak
 	<br>(Fall 2025)
 	<br>[Final Exam Review Slides](/game_theory_review)
 
 - **ECON 121: Intermediate Microeconomics**
-	<br>Teaching Fellow to Prof. Daniel Hauser
+	<br>Teaching Assistant to Prof. Daniel Hauser
 	<br>(Spring 2025)
 
 - **ECON 115: Introductory Microeconomics**
-	<br>Teaching Fellow to Prof. Cormac O'Dea
+	<br>Teaching Assistant to Prof. Cormac O'Dea
 	<br>(Spring 2024, Fall 2024)
 
 - **ECON 121: Intermediate Microeconomics**
-	<br>Teaching Fellow to Prof. Evangelia Chalioti
+	<br>Teaching Assistant to Prof. Evangelia Chalioti
 	<br>(Fall 2023)

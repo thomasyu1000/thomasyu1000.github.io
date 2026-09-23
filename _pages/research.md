@@ -7,9 +7,12 @@ author_profile: true
 header:
 ---
 
-## Work In Progress
+## Job Market Paper
 
 - **The Value of a Hospital Obstetric Unit: Access, Costs, and Health**
+	<br>Draft available upon request
+
+## Work In Progress
 
 - **Redesigning Graduate Medical Education Payments: The Role of Residency Caps**
 
