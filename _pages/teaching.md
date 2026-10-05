@@ -12,7 +12,7 @@ header:
 - **ECON 159: Game Theory**
 	<br>Teaching Assistant to Prof. Benjamin Polak
 	<br>(Fall 2025)
-	<br>[Final Exam Review Slides](/game_theory_review.pdf){:target="_blank"}
+	<br>[Final Exam Review Slides](/files/game_theory_review.pdf){:target="_blank"}
 
 - **ECON 121: Intermediate Microeconomics**
 	<br>Teaching Assistant to Prof. Daniel Hauser

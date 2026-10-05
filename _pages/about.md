@@ -9,7 +9,7 @@ header:
 alt_title: "About"
 ---
 
-I am on the 2026–2027 job market! My [job market paper](/yu_thomas_jmp.pdf){:target="_blank"} is titled "The Value of a Hospital Obstetric Unit: Access, Costs, and Health."
+I am on the 2026–2027 job market! My [job market paper](/files/yu_thomas_jmp.pdf){:target="_blank"} is titled "The Value of a Hospital Obstetric Unit: Access, Costs, and Health."
 
 I am a PhD candidate in economics at Yale University. My research is in health economics and industrial organization. My current projects are related to hospital obstetric units, medical residents, and drug price regulations.
 
