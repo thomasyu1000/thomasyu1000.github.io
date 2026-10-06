@@ -9,7 +9,7 @@ header:
 
 ## Job Market Paper
 
-[**The Value of a Hospital Obstetric Unit: Access, Costs, and Health**](/files/yu_thomas_jmp.pdf){:target="_blank"}
+**The Value of a Hospital Obstetric Unit: Access, Costs, and Health**
 
 **Abstract:** I study *OB provision*, hospitals' decisions to operate obstetric (OB) units. OB provision rates are lower among rural hospitals and declining overall. How does OB provision affect access to care, the costs of delivering care, and maternal and infant health in equilibrium? Using data on births and medical claims, I estimate a model of the hospital OB care market in Arkansas. I find that OB provision benefits mothers substantially by giving them access to more options and shortening travel distances, while its effects on health and variable costs are small and mixed in sign. The average OB unit generates a positive externality worth \$102 per Arkansas birth, mostly driven by access to care. I evaluate an Arkansas policy that increases Medicaid prices, which keeps OB units open as their variable profits decline. I measure the policy's benefit to be 1.1 to 1.7 times its cost.
 
