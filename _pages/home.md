@@ -6,7 +6,7 @@ permalink: /
 
 I am a PhD candidate in economics at Yale University. My research is in health economics and industrial organization. I study the design of public payments in health care markets.
 
-I am on the 2026–2027 job market! In my [job market paper](/files/yu_thomas_jmp.pdf){:target="_blank"}, I study hospital obstetric units in Arkansas. I find that obstetric units provide substantial value, mostly by improving mothers' access to care, and I evaluate policies aimed at keeping them open.
+I am on the 2026–2027 job market! In my [job market paper](/files/yu_thomas_jmp.pdf){:target="_blank"}, I find that hospital obstetric units in Arkansas provide substantial value, mostly by improving mothers' access to care, and I evaluate payments aimed at keeping them open.
 
 Take a look at my [research statement](/files/yu_thomas_research_statement.pdf){:target="_blank"}, [teaching statement](/files/yu_thomas_teaching_statement.pdf){:target="_blank"}, and [CV](/files/yu_thomas_cv.pdf){:target="_blank"}.
 
