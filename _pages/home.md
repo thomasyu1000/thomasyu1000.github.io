@@ -16,7 +16,7 @@ Take a look at my [research statement](/files/yu_thomas_research_statement.pdf){
 
 - **The Value of a Hospital Obstetric Unit: Access, Costs, and Health**&ensp;[PDF](/files/yu_thomas_jmp.pdf){: .btn .btn--primary target="_blank"}
 
-	<details markdown="1">
+	<details markdown="1" open>
 	<summary>Abstract</summary>
 
 	Rates of OB provision, hospitals’ decisions to operate obstetric (OB) units, are lower among rural hospitals than urban hospitals and declining overall. I study how OB provision affects access to care, the costs of delivering care, and maternal and infant health. Using data on births and medical claims, I estimate a model of the hospital OB care market in Arkansas. I find that OB provision benefits mothers substantially by giving them access to more options and shortening travel distances, while its effects on health and variable costs are small and mixed in sign. The average OB unit generates a positive externality worth $104 per Arkansas birth, mostly driven by access to care. I evaluate an Arkansas policy that raises Medicaid prices, which keeps OB units open when their costs go up. The policy’s benefit is 1.0 to 1.5 times its cost. Alternatively, a flat subsidy to OB hospitals achieves the same goal more cost-effectively, with a benefit 1.2 to 4.2 times its cost.
@@ -46,9 +46,9 @@ Take a look at my [research statement](/files/yu_thomas_research_statement.pdf){
 
 ### Publications
 
-- **High-Frequency Location Data Show That Race Affects Citations and Fines for Speeding**&ensp;[Journal](https://www.science.org/doi/10.1126/science.adp5357){: .btn .btn--primary target="_blank"}
-	<br>*Science*, 387(6741), 1397–1401, 2025
+- **High-Frequency Location Data Show That Race Affects Citations and Fines for Speeding** (2025)&ensp;[Journal](https://doi.org/10.1126/science.adp5357){: .btn .btn--primary target="_blank"}
 	<br>with Pradhi Aggarwal, Alec Brandon, Ariel Goldszmidt, Justin Holz, John List, Ian Muir, and Gregory Sun
+	<br>*Science*, 387(6741), 1397–1401
 
 	<details markdown="1">
 	<summary>Abstract</summary>
