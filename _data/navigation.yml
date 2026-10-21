@@ -1,0 +1,8 @@
+main:
+  - title: "<strong>Research</strong>"
+    url: /#research
+  - title: "<strong>Teaching</strong>"
+    url: /#teaching
+  - title: "<strong>CV</strong> (PDF)"
+    url: /files/yu_thomas_cv.pdf
+    target: _blank

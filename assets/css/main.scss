@@ -1,0 +1,173 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+// Smaller base font sizes than the theme's defaults
+$doc-font-size: 16px;
+$doc-font-size-medium: 16px;
+$doc-font-size-large: 17px;
+$doc-font-size-x-large: 18px;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// Less space to the right of the text than the theme reserves (for a table of contents, which this page has none of)
+.page {
+  @include breakpoint($large) {
+    padding-inline-end: 150px;
+  }
+
+  @include breakpoint($x-large) {
+    padding-inline-end: 200px;
+  }
+}
+
+// Smooth scrolling to the sections of the page
+html {
+  scroll-behavior: smooth;
+}
+
+// Buttons after a title and abstract toggles: shorter than a line of text, so they never push lines apart or overlap them
+p > .btn,
+li > .btn,
+summary {
+  display: inline;
+  padding-block: 0.3em;
+  vertical-align: 0.1em; // centered on the capitals of the title, not on the x-height
+}
+
+// Collapsible abstracts: the toggle looks like a button, directly below its paper
+.page__content li > p:has(+ details) {
+  margin-bottom: 0;
+}
+
+details {
+  margin-bottom: $indent-var;
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+summary {
+  @extend .btn;
+  @extend .btn--inverse;
+  padding-block: calc(0.3em - 1px); // the outlined style's border, so the box matches the filled buttons
+
+  &::-webkit-details-marker {
+    display: none;
+  }
+
+  // the triangle, in a zero-height box so its font's metrics do not change the button's height
+  &::after {
+    content: "▼";
+    display: inline-block;
+    margin-inline-start: 0.4em;
+    font-size: 0.8em;
+    line-height: 0;
+    vertical-align: middle;
+  }
+}
+
+details[open] > summary::after {
+  content: "▲";
+}
+
+// Sidebar less faded
+.sidebar {
+  @include breakpoint($large) {
+    opacity: 0.9;
+  }
+}
+
+// Profile picture: larger, rectangular, unframed
+.author__avatar img {
+  max-width: 240px;
+  padding: 0;
+  border: 0;
+  border-radius: $border-radius;
+}
+
+// Equal spacing between photo, name, and email
+$author-gap: 0.75em;
+
+.author__avatar {
+  @include breakpoint($large) {
+    margin-bottom: $author-gap;
+  }
+}
+
+.author__name {
+  margin: 0;
+}
+
+.author__urls-wrapper {
+  margin-top: $author-gap;
+}
+
+.author__urls a {
+  margin: 0;
+  padding: 0;
+}
+
+// Mobile and tablet: picture on the left; name and email on the right
+@media (max-width: #{$large - 1px}) {
+  .h-card {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto 1fr;
+    column-gap: 1em;
+    align-items: start;
+  }
+
+  .author__avatar {
+    grid-row: 1 / span 2;
+    width: 120px;
+    height: auto;
+  }
+
+  .author__content {
+    padding: 0;
+  }
+
+  .author__urls-wrapper {
+    display: block;
+    cursor: auto;
+
+    button {
+      display: none;
+    }
+  }
+
+  .author__urls {
+    display: block;
+    position: static;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+
+    &::before,
+    &::after {
+      display: none;
+    }
+  }
+}
+
+// Sidebar text sizes: name as heading 1; email as the main text
+.sidebar .author__name {
+  font-size: $h-size-1;
+}
+
+.author__urls li {
+  font-size: $type-size-5;
+}
+
+// Copyright line the same size as the buttons
+.page__footer-copyright {
+  font-size: $type-size-6;
+}
