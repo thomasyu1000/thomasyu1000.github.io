@@ -8,7 +8,7 @@ Beyond the theme's settings, I made the following customizations:
   - Reduce the space to the right of the text.
   - Scroll smoothly to sections of the page.
   - Format buttons and abstract toggles.
-  - Adjust opacity of sidebar.
+  - Do not fade the sidebar, and make the photo and name not clickable.
   - Adjust size and shape of profile picture.
   - Space photo, name, and email evenly, and on mobile show email instead of hiding it behind a button.
   - Adjust relative font sizes of name, email, and copyright line.

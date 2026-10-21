@@ -76,11 +76,16 @@ details[open] > summary::after {
   content: "▲";
 }
 
-// Sidebar less faded
+// Sidebar not faded, and the photo and name not links (they would only lead to this page)
 .sidebar {
   @include breakpoint($large) {
-    opacity: 0.9;
+    opacity: 1;
   }
+}
+
+.author__avatar a,
+.author__name a {
+  pointer-events: none;
 }
 
 // Profile picture: larger, rectangular, unframed
@@ -88,7 +93,7 @@ details[open] > summary::after {
   max-width: 240px;
   padding: 0;
   border: 0;
-  border-radius: $border-radius;
+  border-radius: $border-radius * 3; // the theme's radius reads as square on a picture this size
 }
 
 // Equal spacing between photo, name, and email
