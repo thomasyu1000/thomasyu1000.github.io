@@ -25,7 +25,7 @@ Take a look at my [research statement](/files/yu_thomas_research_statement.pdf){
 
 ### Working Papers
 
-- **Redesigning Graduate Medical Education Payments: The Role of Residency Caps**&ensp;[PDF](/files/yu_gme_payments.pdf){: .btn .btn--primary target="_blank"}
+- **Redesigning Graduate Medical Education Payments: The Role of Residency Caps** (Under Review)&ensp;[PDF](/files/yu_gme_payments.pdf){: .btn .btn--primary target="_blank"}
 
 	<details markdown="1">
 	<summary>Abstract</summary>
