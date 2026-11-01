@@ -35,7 +35,7 @@ Take a look at my [research statement](/files/yu_thomas_research_statement.pdf){
 	</details>
 
 - **Incidence of Drug Price Regulations**&ensp;[PDF](/files/liuyu_drug_incidence.pdf){: .btn .btn--primary target="_blank"}
-	<br>with Genna Liu
+	<br>with Genna Liu.
 
 	<details markdown="1">
 	<summary>Abstract</summary>
@@ -47,8 +47,8 @@ Take a look at my [research statement](/files/yu_thomas_research_statement.pdf){
 ### Publications
 
 - **High-Frequency Location Data Show That Race Affects Citations and Fines for Speeding** (2025)&ensp;[Journal](https://doi.org/10.1126/science.adp5357){: .btn .btn--primary target="_blank"}
-	<br>with Pradhi Aggarwal, Alec Brandon, Ariel Goldszmidt, Justin Holz, John List, Ian Muir, and Gregory Sun
-	<br>*Science*, 387(6741), 1397–1401
+	<br>with Pradhi Aggarwal, Alec Brandon, Ariel Goldszmidt, Justin Holz, John List, Ian Muir, and Gregory Sun.
+	<br>*Science*, 387(6741), 1397–1401.
 
 	<details markdown="1">
 	<summary>Abstract</summary>
@@ -56,6 +56,12 @@ Take a look at my [research statement](/files/yu_thomas_research_statement.pdf){
 	Prior research on racial profiling has found that in encounters with law enforcement, minorities are punished more severely than white civilians. Less is known about the causes of these encounters and their implications for our understanding of racial profiling. Using high-frequency location data of rideshare drivers in Florida (N = 222,838 individuals), we estimate the effect of driver race on citations and fines for speeding using 19.3 million location pings. Compared with a white driver traveling the same speed, we find that racial or ethnic minority drivers are 24 to 33% more likely to be cited for speeding and pay 23 to 34% more money in fines. We find no evidence that accident and reoffense rates explain these estimates, which suggests that an animus against minorities underlies our results.
 
 	</details>
+
+### Other Research
+
+- **Acculturation and Mental Health Help-Seeking Behavior in a Community Cohort of Individuals of Chinese Descent** (2023)&ensp;[Journal](https://doi.org/10.1016/j.ajp.2023.103628){: .btn .btn--primary target="_blank"}
+	<br>with Zilin Cui, Yiyang Yuan, Amy Cheung, Kun Hu, Chuyu Wang, and Xiaoduo Fan.
+	<br>*Asian Journal of Psychiatry*, 85, 103628.
 
 ## Teaching
 
