@@ -10,7 +10,7 @@ Beyond the theme's settings, I made the following customizations:
   - Format buttons and abstract toggles.
   - Do not fade the sidebar, and make the photo and name not clickable.
   - Adjust size and shape of profile picture.
-  - Space photo, name, and email evenly, and on mobile show email instead of hiding it behind a button.
+  - Space photo, name, email, and Google Scholar link evenly, and on mobile show them instead of hiding them behind a button.
   - Adjust relative font sizes of name, email, and copyright line.
 - Added `_pages/home.md`, a single page served at `/`, using `<details>` for collapsible abstracts and buttons for links.
 - In `_data/navigation.yml`, bolded the links with HTML in their titles.

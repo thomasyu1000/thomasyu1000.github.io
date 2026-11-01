@@ -118,6 +118,10 @@ $author-gap: 0.75em;
   padding: 0;
 }
 
+.author__urls li + li {
+  margin-top: $author-gap;
+}
+
 // Mobile and tablet: picture on the left; name and email on the right
 @media (max-width: #{$large - 1px}) {
   .h-card {
