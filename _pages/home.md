@@ -35,7 +35,7 @@ Take a look at my [research statement](/files/yu_thomas_research_statement.pdf){
 	</details>
 
 - **Incidence of Drug Price Regulations**&ensp;[PDF](/files/liuyu_drug_incidence.pdf){: .btn .btn--primary target="_blank"}
-	<br>with Genna Liu.
+	<br>with Genna Liu
 
 	<details markdown="1">
 	<summary>Abstract</summary>
