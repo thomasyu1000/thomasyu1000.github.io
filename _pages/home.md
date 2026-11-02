@@ -47,7 +47,7 @@ Take a look at my [research statement](/files/yu_thomas_research_statement.pdf){
 ### Publications
 
 - **High-Frequency Location Data Show That Race Affects Citations and Fines for Speeding** (2025)&ensp;[Journal](https://doi.org/10.1126/science.adp5357){: .btn .btn--primary target="_blank"}
-	<br>with Pradhi Aggarwal, Alec Brandon, Ariel Goldszmidt, Justin Holz, John List, Ian Muir, and Gregory Sun.
+	<br>Pradhi Aggarwal, Alec Brandon, Ariel Goldszmidt, Justin Holz, John List, Ian Muir, Gregory Sun, and Thomas Yu.
 	<br>*Science*, 387(6741), 1397–1401.
 
 	<details markdown="1">
@@ -60,7 +60,7 @@ Take a look at my [research statement](/files/yu_thomas_research_statement.pdf){
 ### Other Research
 
 - **Acculturation and Mental Health Help-Seeking Behavior in a Community Cohort of Individuals of Chinese Descent** (2023)&ensp;[Journal](https://doi.org/10.1016/j.ajp.2023.103628){: .btn .btn--primary target="_blank"}
-	<br>with Zilin Cui, Yiyang Yuan, Amy Cheung, Kun Hu, Chuyu Wang, and Xiaoduo Fan.
+	<br>Zilin Cui, Yiyang Yuan, Amy Cheung, Thomas Yu, Kun Hu, Chuyu Wang, and Xiaoduo Fan.
 	<br>*Asian Journal of Psychiatry*, 85, 103628.
 
 ## Teaching
