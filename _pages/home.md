@@ -77,4 +77,4 @@ Take a look at my [research statement](/files/yu_thomas_research_statement.pdf){
 	<br>Teaching Assistant to Prof. Cormac O'Dea (Spring 2024, Fall 2024)
 
 - **ECON 121: Intermediate Microeconomics**
-	<br>Teaching Assistant to Prof. Evangelia Chalioti (Fall 2023)
+	<br>Teaching Assistant to Prof. Eva Chalioti (Fall 2023)
