@@ -62,18 +62,18 @@ summary {
   }
 
   // the triangle, in a zero-height box so its font's metrics do not change the button's height
-  &::after {
-    content: "▼";
+  &::before {
+    content: "▶";
     display: inline-block;
-    margin-inline-start: 0.4em;
+    margin-inline-end: 0.4em;
     font-size: 0.8em;
     line-height: 0;
     vertical-align: middle;
   }
 }
 
-details[open] > summary::after {
-  content: "▲";
+details[open] > summary::before {
+  content: "▼";
 }
 
 // Sidebar not faded, and the photo and name not links (they would only lead to this page)
