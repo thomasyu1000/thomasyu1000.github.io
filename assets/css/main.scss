@@ -61,19 +61,23 @@ summary {
     display: none;
   }
 
-  // the triangle, in a zero-height box so its font's metrics do not change the button's height
+  // the triangle, in a zero-height box so its font's metrics do not change the button's height;
+  // one glyph, turned to point right when the abstract is closed, so it sits identically in both states
   &::before {
-    content: "▶";
+    content: "▼";
     display: inline-block;
     margin-inline-end: 0.4em;
     font-size: 0.8em;
     line-height: 0;
     vertical-align: middle;
+    position: relative;
+    top: -0.08em; // centered on the capital A, not on the x-height
+    transform: rotate(-90deg);
   }
 }
 
 details[open] > summary::before {
-  content: "▼";
+  transform: none;
 }
 
 // Sidebar not faded, and the photo and name not links (they would only lead to this page)
